@@ -1,0 +1,26 @@
+.accordionAlleProtokolle {
+    max-width: 50em;
+}
+
+:root {
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.table {
+    max-width: 60em;
+}
+
+.cardTitle {
+    text-align: center;
+}
+
+.cardTitle:nth-child(2) {
+    padding-bottom: 3rem;
+}
+#headerTitle{
+    margin-left: -3rem;
+}
+#bearbeitenButton{
+    margin-top: 1rem;
+}
